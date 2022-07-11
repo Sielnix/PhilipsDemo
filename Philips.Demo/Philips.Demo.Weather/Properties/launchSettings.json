@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Weather.txt": {
+      "commandName": "Project",
+      "commandLineArgs":  "./../../../../weather.txt" 
+    } 
+  }
+}
